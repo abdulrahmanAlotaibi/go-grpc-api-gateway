@@ -3,8 +3,8 @@ package product
 import (
     "fmt"
 
-    "github.com/abdulrahmanalotaibi/go-grpc-api-gateway/pkg/config"
-    "github.com/abdulrahmanalotaibi/go-grpc-api-gateway/pkg/product/pb"
+    "github.com/abdulrahmanAlotaibi/go-grpc-api-gateway/pkg/config"
+    "github.com/abdulrahmanAlotaibi/go-grpc-api-gateway/pkg/product/pb"
     "google.golang.org/grpc"
 )
 

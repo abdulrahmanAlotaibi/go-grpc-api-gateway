@@ -2,9 +2,9 @@ package product
 
 import (
     "github.com/gin-gonic/gin"
-    "github.com/abdulrahmanalotaibi/go-grpc-api-gateway/pkg/auth"
-    "github.com/abdulrahmanalotaibi/go-grpc-api-gateway/pkg/config"
-    "github.com/abdulrahmanalotaibi/go-grpc-api-gateway/pkg/product/routes"
+    "github.com/abdulrahmanAlotaibi/go-grpc-api-gateway/pkg/auth"
+    "github.com/abdulrahmanAlotaibi/go-grpc-api-gateway/pkg/config"
+    "github.com/abdulrahmanAlotaibi/go-grpc-api-gateway/pkg/product/routes"
 )
 
 func RegisterRoutes(r *gin.Engine, c *config.Config, authSvc *auth.ServiceClient) {
