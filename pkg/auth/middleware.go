@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/gin-gonic/gin"
-	"github.com/abdulrahmanAlotaibi/go-grpc-api-gateway/pkg/auth/pb"
+	"github.com/abdulrahmanalotaibi/go-grpc-api-gateway/pkg/auth/pb"
 )
 
 
